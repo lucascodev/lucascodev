@@ -15,6 +15,7 @@
     <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </div><br/>
 
 Sou apaixonado por tecnologias, estudos e estou sempre a procura de coisas novas para que eu possa abrandigir meu conhecimento.
