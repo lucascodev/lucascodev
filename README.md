@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-dos-reis-60a49b18b/)
 
-[![Blog](https://img.shields.io/website?label=lucascodev.com.br&style=for-the-badge&url=https://lucascodev.com.br/blog)](https://lucascodev.com.br/blog)
+[![Blog](https://img.shields.io/website?label=lucascodev.com.br&style=for-the-badge&url=https://lucascodev.com.br/)](https://lucascodev.com.br/blog)
 
 ![Lucas GitHub status](https://github-readme-stats.vercel.app/api?username=lucascodev&show_icons=true&theme=dracula)
 
