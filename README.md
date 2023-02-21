@@ -21,4 +21,5 @@
 Sou apaixonado por tecnologias, estudos e estou sempre a procura de coisas novas para que eu possa abrandigir meu conhecimento.
 
 
-![Snake animation](https://github.com/lucascodev/lucascodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucascodev/lucascodev/blob/output/github-user-contribution.svg)
+
