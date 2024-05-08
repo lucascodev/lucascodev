@@ -1,4 +1,7 @@
-### _Olá_, _eu sou o_ **_Lucas Pereira_** 👋
+### Olá bem vindo ao meu Perfil.
+Me chamo Lucas,
+tenho 26 anos, sou um entusiata em React,
+trabalho como desenvolvedor front-end atuo também como full-stack desenvolvendo aplicações do zero, de do front ao back-end, tenho empresa a mais de 1 ano, e venho prestando serviços dês de então, venho estudando bastante para aprender todas as tecnológias necessarias para meu crescimento profissional. 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-dos-reis-60a49b18b/)
 
