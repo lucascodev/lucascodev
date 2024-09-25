@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu perfil! 👋
 
-Me chamo Lucas Pereira dos Reis, tenho 26 anos e sou desenvolvedor full-stack pleno, com especialização em front-end e back-end. Atualmente, sou CEO e freelancer, trabalhando com tecnologias como **React**, **Next.js**, **Node.js**, **MongoDB**, **MySQL** e **Laravel**.
+Me chamo Lucas Pereira dos Reis, tenho 29 anos e sou desenvolvedor full-stack pleno, com especialização em front-end e back-end. Atualmente, sou CEO e freelancer, trabalhando com tecnologias como **React**, **Next.js**, **Node.js**, **MongoDB**, **MySQL** e **Laravel**.
 
 Minha experiência abrange projetos dinâmicos em empresas e como freelancer, tendo liderado a migração de tecnologias, otimizado aplicações e colaborado com times multidisciplinares. Além disso, venho constantemente aperfeiçoando minhas habilidades em **AWS**, **GIT**, e metodologias ágeis.
 
