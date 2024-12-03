@@ -33,8 +33,15 @@ Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios e 
 
 Recentemente, colaborei com o projeto **Acer Conecta** e outros projetos inovadores. Atuei com **React**, **TypeScript**, **Next.js**, e otimizei aplicações com **Vite** e **Ant Design**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
+<!-- Snake Game -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+  </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+</div>
