@@ -35,3 +35,11 @@ Recentemente, colaborei com o projeto **Acer Conecta** e outros projetos inovado
 
 <!-- Snake Game -->
 ![Snake animation](https://github.com/lucascodev/lucascodev/blob/output/github-user-contribution.svg)
+<div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/lucascodev/lucascodev/blob/output/github-user-contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/lucascodev/lucascodev/blob/output/github-user-contribution.svg">
+  </picture>
+</div>
