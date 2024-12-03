@@ -1,41 +1,67 @@
-### Olá, bem-vindo ao meu perfil! 👋
+# 👋 Olá, seja muito bem-vindo(a) ao meu perfil!
 
-Me chamo Lucas Pereira dos Reis, tenho 29 anos e sou desenvolvedor full-stack pleno, com especialização em front-end e back-end. Atualmente, sou CEO e freelancer, trabalhando com tecnologias como **React**, **Next.js**, **Node.js**, **MongoDB**, **MySQL** e **Laravel**.
+### Eu sou **Lucas Pereira dos Reis**, desenvolvedor **Full-Stack Pleno**, com especialização em **front-end** e **back-end**. Tenho **29 anos** e atualmente atuo como **CEO** e **freelancer**, trabalhando com as principais tecnologias do mercado para criar soluções escaláveis e de alta performance.
 
-Minha experiência abrange projetos dinâmicos em empresas e como freelancer, tendo liderado a migração de tecnologias, otimizado aplicações e colaborado com times multidisciplinares. Além disso, venho constantemente aperfeiçoando minhas habilidades em **AWS**, **GIT**, e metodologias ágeis.
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-dos-reis-60a49b18b/)
-[![Blog](https://img.shields.io/website?label=lucascodev.com.br&style=for-the-badge&url=https://lucascodev.com.br/)](https://lucascodev.com.br/)
+## 🌟 Sobre Mim
+
+Sou apaixonado por **tecnologia** e **inovação**, sempre em busca de desafios e oportunidades para me aprimorar. Com uma sólida experiência em projetos dinâmicos, já liderei:
+
+- **Migrações tecnológicas**.
+- **Otimizações de aplicações** para melhorar a experiência do usuário.
+- **Colaboração com times multidisciplinares** para entrega de soluções inovadoras.
+
+### Projetos Recentes
+
+- **Clamper**: Projeto atual, colaborando no front end e back, atuo com **React**, **TypeScript**, **Next.js**, **Nest.js**, **Ant Design**, **Prisma** e **Mysql**.
+- **Acer Conecta**: Projeto colaborativo onde atuei com **React**, **TypeScript**, **Next.js**, **Vite** e **Ant Design**.
+- **Freelancer**: Desenvolvi sistemas escaláveis utilizando **React**, **Node.js**, **Laravel** e **MongoDB**.
+
+---
+
+## 🚀 Tecnologias que Utilizo no Meu Dia a Dia
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</div>
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
 
 ![Lucas GitHub Status](https://github-readme-stats.vercel.app/api?username=lucascodev&show_icons=true&theme=dracula)
 
-## 🚀 Tecnologias que utilizo no meu dia a dia
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodev&layout=compact&theme=dracula)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div><br/>
+---
 
-## 💡 Sobre Mim
+## 🌐 Onde Me Encontrar
 
-Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprimoramento contínuo. Tenho experiência em migrações tecnológicas, desenvolvimento de sistemas escaláveis e colaborativos, e na criação de soluções que otimizam a experiência do usuário.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-dos-reis-60a49b18b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucascodev.com.br-blue?style=for-the-badge)](https://lucascodev.com.br/)
 
-Recentemente, colaborei com o projeto **Acer Conecta** e outros projetos inovadores. Atuei com **React**, **TypeScript**, **Next.js**, e otimizei aplicações com **Vite** e **Ant Design**.
+---
 
-<!-- Snake Game -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution.svg">
-  </picture>
+## 🐍 Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascodev/lucascodev/output/github-user-contribution.svg">
+</picture>
+
+---
