@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios e 
 Recentemente, colaborei com o projeto **Acer Conecta** e outros projetos inovadores. Atuei com **React**, **TypeScript**, **Next.js**, e otimizei aplicações com **Vite** e **Ant Design**.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
