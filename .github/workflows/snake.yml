@@ -1,18 +1,34 @@
 name: Generate Snake
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente
+  workflow_dispatch: # Permite execução manual
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_user_name: lucascodev
-          outputs: |
-            github-user-contribution.svg
-            github-user-contribution-dark.svg?palette=github-dark
-            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          node-version: 16 # Recomendado para a v3 do snk
+
+      - name: Generate Snake Animation
+        run: |
+          npx @platane/snk@3 \
+            --user-name lucascodev \ # Substitua pelo seu username GitHub
+            --output dist/snake.svg \
+            --color-snake '#00ff00' \
+            --color-food '#ff0000'
+
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generated Snake Animation"
+          branch: outputs
+          file_pattern: "dist/snake.svg"
