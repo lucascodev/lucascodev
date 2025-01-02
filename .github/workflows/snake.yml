@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
-    steps: 
+    steps:
       - name: Check out repository
         uses: actions/checkout@v3
 
@@ -25,9 +25,13 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Commit and Push Snake Animation
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Generated Snake Animation"
-          branch: outputs
-          file_pattern: dist/*
+      - name: Add and Commit Generated Files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*
+          git commit -m "Generated Snake Animation"
+
+      - name: Push Changes to Outputs Branch
+        run: |
+          git push origin HEAD:outputs --force
