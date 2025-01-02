@@ -9,12 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Limpar diretório de trabalho
-        run: git clean -fd
-       
+    steps: 
       - name: Check out repository
         uses: actions/checkout@v3
+
+      - name: Limpar diretório de trabalho
+        run: git clean -fd
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
