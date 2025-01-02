@@ -65,9 +65,9 @@ Sou apaixonado por **tecnologia** e **inovação**, sempre em busca de desafios 
 ## 🐍 Snake Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/outputs/github-user-contribution-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/outputs/github-user-contribution.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascodev/lucascodev/outputs/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/outputs/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascodev/lucascodev/outputs/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascodev/lucascodev/dist/github-snake.svg">
 </picture>
 
 ---
