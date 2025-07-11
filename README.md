@@ -1,6 +1,6 @@
 # 👋 Olá, seja muito bem-vindo(a) ao meu perfil!
 
-### Eu sou **Lucas Pereira dos Reis**, desenvolvedor **Full-Stack Pleno**, com especialização em **front-end** e **back-end**. Tenho **29 anos** e atualmente atuo como **CEO** e **freelancer**, trabalhando com as principais tecnologias do mercado para criar soluções escaláveis e de alta performance.
+### Eu sou **Lucas Pereira dos Reis**, desenvolvedor **Full-Stack Pleno**, com especialização em **front-end** e **back-end**. Tenho **30 anos** e atualmente atuo como **CEO** e **freelancer**, trabalhando com as principais tecnologias do mercado para criar soluções escaláveis e de alta performance.
 
 ---
 
