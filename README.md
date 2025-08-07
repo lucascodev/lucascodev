@@ -48,7 +48,7 @@ Sou apaixonado por **tecnologia** e **inovação**, sempre em busca de desafios 
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
-[![lucascodev GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascodev)](https://github.com/lucascodev/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascodev&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodev&layout=compact&theme=dracula)
 
