@@ -29,10 +29,10 @@
 - **Tech Stack**: React, TypeScript, Next.js, NestJS, Ant Design, Prisma, MySQL
 - **Foco**: Interface moderna e APIs performáticas
 
-### 🔗 **Acer Conecta** - *Projeto Colaborativo*  
+### 🔗 **Acer Conecta** - *Plataforma Empresarial*  
 > Desenvolvimento de soluções integradas com foco na usabilidade
 - **Tech Stack**: React, TypeScript, Next.js, Vite, Ant Design
-- **Especialidade**: UX/UI e integração de sistemas
+- **Especialidade**: integração de sistemas
 
 ### 🚀 **Projetos Freelancer** - *Soluções Full-Stack Diversificadas*
 > Atendimento completo com stack tecnológico adaptado às necessidades de cada cliente
