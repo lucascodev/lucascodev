@@ -27,12 +27,12 @@
 ### 🏢 **Clamper** - *Plataforma Empresarial*
 > Desenvolvimento full-stack colaborativo focado em escalabilidade
 - **Tech Stack**: React, TypeScript, Next.js, NestJS, Ant Design, Prisma, MySQL
-- **Foco**: Interface moderna e APIs performáticas
+- **Foco**: Interface moderna e APIs performáticas e experiência do usuário
 
 ### 🔗 **Acer Conecta** - *Plataforma Empresarial*  
 > Desenvolvimento de soluções integradas com foco na usabilidade
 - **Tech Stack**: React, TypeScript, Next.js, Vite, Ant Design
-- **Especialidade**: integração de sistemas
+- **Especialidade**: integração de sistemas, interfaces modernas e experiência do usuário
 
 ### 🚀 **Projetos Freelancer** - *Soluções Full-Stack Diversificadas*
 > Atendimento completo com stack tecnológico adaptado às necessidades de cada cliente
