@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Pereira+dos+Reis;Tenho+23+anos+e+sou+do+Brasil;Desenvolvedor+Full-Stack+Pleno;Especializado+em+React,+Next.js+e+TypeScript;Bem-vindo+ao+meu+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Pereira+dos+Reis;Tenho+30+anos+e+sou+do+Brasil;Desenvolvedor+Full-Stack+Pleno;Especializado+em+React,+Next.js+e+TypeScript;Bem-vindo+ao+meu+GitHub!)
 
 </div>
 
