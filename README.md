@@ -18,7 +18,7 @@ Especializado em soluções escaláveis de alta performance. Transformando ideia
 - 🔹 **Resultados:** Interface moderna + APIs performáticas + experiência do usuário
 - 🔹 **Colaboração:** Trabalho eficaz com times multidisciplinares usando metodologias ágeis
 
-> *Atualmente apaixonado por tecnologia com expertise em:*
+> *Apaixonado por tecnologia com expertise em:*
 > **Desenvolvimento de plataformas empresariais, desenolvimento full-stack e arquiteturas escaláveis**
 
 ---
