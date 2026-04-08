@@ -19,7 +19,7 @@ Especializado em soluções escaláveis de alta performance. Transformando ideia
 - 🔹 **Colaboração:** Trabalho eficaz com times multidisciplinares usando metodologias ágeis
 
 > *Apaixonado por tecnologia com expertise em:*
-> **Desenvolvimento de plataformas empresariais, desenolvimento full-stack e arquiteturas escaláveis**
+> **Desenvolvimento de plataformas empresariais, desenvolvimento full-stack e arquiteturas escaláveis**
 
 ---
 
