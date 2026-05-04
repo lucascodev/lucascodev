@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![Top Languages](stats/leaderboard_by_lines.png)
+![Top Languages](stats/leaderboard_by_weighted.png)
 
 </div>
 
