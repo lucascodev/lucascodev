@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-- 💼 **Software Development Specialist** @ [FITec](https://www.fitec.org.br) — plataforma IoT para veículos elétricos
+- 💼 **Software Development Specialist** @ [FITec](https://www.fiteclabs.org.br) — plataforma IoT para veículos elétricos
 - 🚀 **CEO & Freelancer** — sistemas web, mobile e jogos desde 2022
 - 🎮 Desenvolvi um jogo para a **Seven Boys** apresentado no **Campus Party Brasil**
 - 🌍 Criei um globo 3D interativo com **Three.js** para a **DTCOM**
