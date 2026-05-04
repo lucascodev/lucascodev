@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-- 💼 **Software Development Specialist** @ [FITec](https://www.fiteclabs.org.br) — plataforma IoT para veículos elétricos
+- 💼 **Software Development Specialist** @ [FITec](https://www.fiteclabs.org.br) — IoT para veículos elétricos + reconhecimento de placas com IA
 - 🚀 **CEO & Freelancer** — sistemas web, mobile e jogos desde 2022
 - 🎮 Desenvolvi um jogo para a **Seven Boys** apresentado no **Campus Party Brasil**
 - 🌍 Criei um globo 3D interativo com **Three.js** para a **DTCOM**
@@ -39,6 +39,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white)
@@ -65,7 +67,7 @@
 
 | Certificação | Emissor |
 |---|---|
-| 🏅 GitHub Copilot Certification | GitHub |
+| [🏅 GitHub Copilot Certification](https://www.credly.com/badges/e2c31236-1d1a-4b0b-a9d0-e2660ca74df4/linked_in_profile) | GitHub |
 
 </div>
 
