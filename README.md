@@ -34,7 +34,7 @@ Desenvolvedor full-stack com foco em front-end React e Next.js, atuando também 
 
 **Aura Cubic Digital** · Fundador e Desenvolvedor
 
-- Produtos próprios de software (CRM, monitoramento, mobile e jogos) e projetos sob demanda para clientes.
+- Produtos próprios, como o Aura Cubic CRM e o Mistura Certa, e sistemas sob medida para clientes.
 
 **Freelancer** · desde 2022
 
@@ -58,11 +58,12 @@ Desenvolvedor full-stack com foco em front-end React e Next.js, atuando também 
 | [Lambda Common Name](https://github.com/lucascodev/lambda-get-common-name) | AWS Lambda que extrai o Common Name (CN) de um certificado PEM | Node.js, AWS |
 | [Let Me Ask](https://github.com/lucascodev/let-me-ask-app) | Salas e perguntas em tempo real, feito no NLW Agents da Rocketseat ([API](https://github.com/lucascodev/let-me-ask-api)) | React, Fastify, Drizzle |
 
-**Aura Cubic Digital** (repositórios privados)
+**Aura Cubic Digital** (código em repositórios privados)
 
 | Produto | Descrição | Stack |
 |---|---|---|
-| Aura CRM | Plataforma de CRM multi-tenant via WhatsApp para agências de marketing | NestJS, monorepo, TypeScript |
+| [Aura Cubic CRM](https://auracubiccrm.com.br) | CRM por assinatura para empresas que vendem por WhatsApp, telefone e indicação: funil visual, propostas em PDF, follow-up automático e equipes com permissões | NestJS, monorepo, TypeScript |
+| Mistura Certa | Plataforma de receitas com gamificação, com web, app mobile e API | Next.js 16, React Native, NestJS, Prisma |
 | Aura Monitor | Monitoramento de hardware em tempo real: agente desktop, API e dashboard com modo kiosk | Tauri, React, NestJS, Socket.IO, Flutter |
 | Aura Deck | App mobile de stream deck, mídia e métricas do Aura Monitor pela rede local | React Native, Expo |
 | Aura Pipeline | Painel de deploy que roda na sua máquina, com execução local, por SSH ou por agente | TypeScript |
