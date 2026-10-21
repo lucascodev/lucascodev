@@ -50,7 +50,7 @@ Desenvolvedor full-stack com foco em front-end React e Next.js, atuando também 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Aura Questor](https://github.com/lucascodev/aura-questor) | Rastreador de objetivos para World of Warcraft: missões, conquistas e mais, em uma janela própria | Lua |
+| [Aura Questor](https://github.com/lucascodev/aura-questor) | Rastreador de objetivos para World of Warcraft: missões, conquistas e mais, em uma janela própria. Disponível no [CurseForge](https://www.curseforge.com/wow/addons/aura-questor) | Lua |
 | [Aura Nameplate](https://github.com/lucascodev/aura-nameplate) | Addon de WoW que mostra na placa do alvo a magia que você acabou de conjurar (em desenvolvimento) | Lua |
 | [Portfólio](https://github.com/lucascodev/portfolio-lucascodev-profile) | Portfólio profissional responsivo com Clean Architecture e Framer Motion | Next.js 16, TypeScript |
 | [Prompt Manager](https://github.com/lucascodev/nextjs-prompt-manager) | Gerenciador de prompts para uso com IA | Next.js 15, Prisma, PostgreSQL |
@@ -62,8 +62,8 @@ Desenvolvedor full-stack com foco em front-end React e Next.js, atuando também 
 
 | Produto | Descrição | Stack |
 |---|---|---|
-| [Aura Cubic CRM](https://auracubiccrm.com.br) | CRM por assinatura para empresas que vendem por WhatsApp, telefone e indicação: funil visual, propostas em PDF, follow-up automático e equipes com permissões | NestJS, monorepo, TypeScript |
-| Mistura Certa | Plataforma de receitas com gamificação, com web, app mobile e API | Next.js 16, React Native, NestJS, Prisma |
+| [Aura Cubic CRM](https://auracubiccrm.com.br) | CRM por assinatura para empresas que vendem por WhatsApp, telefone e indicação: funil visual, propostas em PDF, follow-up automático e equipes com permissões. Site: [auracubiccrm.com.br](https://auracubiccrm.com.br) | NestJS, monorepo, TypeScript |
+| [Mistura Certa](https://play.google.com/store/apps/details?id=com.auracubic.misturacerta) | App de receitas com busca por nome ou ingrediente, plano semanal de refeições e lista de compras. Gratuito, com plano Premium. Disponível no [Google Play](https://play.google.com/store/apps/details?id=com.auracubic.misturacerta) | React Native, Next.js 16, NestJS, Prisma |
 | Aura Monitor | Monitoramento de hardware em tempo real: agente desktop, API e dashboard com modo kiosk | Tauri, React, NestJS, Socket.IO, Flutter |
 | Aura Deck | App mobile de stream deck, mídia e métricas do Aura Monitor pela rede local | React Native, Expo |
 | Aura Pipeline | Painel de deploy que roda na sua máquina, com execução local, por SSH ou por agente | TypeScript |
