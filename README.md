@@ -7,7 +7,7 @@
 Web, mobile, IoT e jogos · Santa Fé do Sul, SP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-dos-reis-60a49b18b/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucascodev.com.br-FF5722?style=flat-square)](https://lucascodev.com.br)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucascodev.com.br-FF5722?style=flat-square)](https://lucascodev.com/)
 [![Aura Cubic Digital](https://img.shields.io/badge/Aura_Cubic_Digital-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Aura-Cubic-Digital)
 
 </div>
